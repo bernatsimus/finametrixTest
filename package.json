@@ -1,16 +1,16 @@
 {
-  "name": "prova",
-  "version": "1.0.0",
-  "description": "la prova",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "author": "bernat",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.17.1",
-    "mongodb": "^3.5.1",
-    "mongoose": "^5.8.9"
-  }
+    "name": "prova",
+    "version": "1.0.0",
+    "description": "la prova",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "bernat",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "mongodb": "^3.5.1",
+        "mongoose": "^5.8.9"
+    }
 }
