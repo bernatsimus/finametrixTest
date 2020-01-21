@@ -11,14 +11,23 @@
     The data is in the db folder located in the project directory.
     The  ollection name is "news"
 
-Commands for run it:
-    First ubicate in the proyect directory
+Commands to create the database:
+
+ - Ubicate in the proyect directory
+
+Create the db folder in the proyect directory
 ```
     mongod -.dbpath=./db
 ```
 
+Join the mongo console:
 ```
-    use news 
+    mongo
+```
+
+Create the collection:
+```
+    use news
 ```
 
 Examples of data to enter in the db:
