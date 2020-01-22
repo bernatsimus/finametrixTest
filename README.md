@@ -17,7 +17,7 @@ Commands to create the database:
 
 Create the db folder in the proyect directory
 ```
-    mongod -.dbpath=./db
+    mongod --dbpath=./db
 ```
 
 Join the mongo console:
